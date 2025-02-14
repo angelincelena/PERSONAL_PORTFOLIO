@@ -14,9 +14,6 @@ Welcome to my **Personal Portfolio**! 🎨💻 This website showcases my skills,
 - **Frameworks & Libraries**: React.js, Streamlit, Gradio  
 - **Tools**: Git, GitHub, VS Code  
 
-## 🚀 Live Demo
-🔗 [Visit My Portfolio](https://your-portfolio-link.com) *(Replace with your actual deployed link)*  
-
 ## 🔥 Projects Featured
 | Project | Description | GitHub Link |
 |---------|------------|-------------|
