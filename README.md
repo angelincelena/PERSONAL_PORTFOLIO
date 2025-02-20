@@ -10,9 +10,8 @@ Welcome to my **Personal Portfolio**! 🎨💻 This website showcases my skills,
 ✅ **Contact Section** - Easy access to my professional links.  
 
 ## 🛠️ Built With
-- **Frontend**: HTML, CSS, JavaScript  
-- **Frameworks & Libraries**: React.js, Streamlit, Gradio  
-- **Tools**: Git, GitHub, VS Code  
+- **Frontend**: HTML, CSS, JavaScript   
+- **Tools**: GitHub, VS Code  
 
 ## 🔥 Projects Featured
 | Project | Description | GitHub Link |
